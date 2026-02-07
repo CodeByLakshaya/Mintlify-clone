@@ -42,3 +42,10 @@ System font stack for performance and consistency:
 
 ```css
 font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+```
+
+<img width="1902" height="852" alt="1" src="https://github.com/user-attachments/assets/00e69553-898c-442f-8a9e-b8a87c5ae23f" />
+<img width="1901" height="872" alt="2" src="https://github.com/user-attachments/assets/2cb4f02a-beab-44c3-8ba6-4b26c59f21e5" />
+<img width="1845" height="888" alt="3" src="https://github.com/user-attachments/assets/4067e0fd-9201-4674-b85b-656b472f81a8" />
+
+
